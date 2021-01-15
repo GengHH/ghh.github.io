@@ -1,0 +1,2 @@
+这里是使用vuepress第三方js库来实现静态网站的搭建（主要是在本地采用makedown编写文本档，通过该工具装换成html,css等文件）。
+（之后会和GitHub Pages结合-构建一个基于'用户名.github.io'的在线静态网站）；
