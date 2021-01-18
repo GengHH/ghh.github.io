@@ -1,2 +1,7 @@
 这里是使用vuepress第三方js库来实现静态网站的搭建（主要是在本地采用makedown编写文本档，通过该工具装换成html,css等文件）。
 （之后会和GitHub Pages结合-构建一个基于'用户名.github.io'的在线静态网站）；
+
+
+1.已经将vuepress升级到1.x
+2.使用Travis-CI在线网站实现自动化编译和部署，会动提交到master分支上；
+注意：最好使用node.js-12.x

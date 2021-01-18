@@ -2,13 +2,13 @@
  * @Author: GengHH
  * @Date: 2021-01-15 15:27:06
  * @LastEditors: GengHH
- * @LastEditTime: 2021-01-18 16:33:33
+ * @LastEditTime: 2021-01-18 16:58:43
  * @Description: file content
  * @FilePath: \VuePress2\docs\.vuepress\config.js
  */
 module.exports = {
 	// 左上角标题
-	title: "GHH 的文档库 嘿嘿嘿",
+	title: "GHH 的文档库",
 	// 描述
 	description: "前端工程师 GHH 的文档库",
 	// 头部部署，右上角小图标
