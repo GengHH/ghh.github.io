@@ -2,7 +2,7 @@
  * @Author: GengHH
  * @Date: 2021-01-15 15:27:06
  * @LastEditors: GengHH
- * @LastEditTime: 2021-01-18 16:58:43
+ * @LastEditTime: 2021-02-04 18:27:20
  * @Description: file content
  * @FilePath: \VuePress2\docs\.vuepress\config.js
  */
@@ -73,6 +73,7 @@ module.exports = {
 			"/index/": [
 				["", "README"],
 				["linuxCreateRedis", "linux部署redis"],
+				["gitProxy", "Git代理配置"],
 			],
 			// 侧边栏在 /about/ 目录上
 			"/about/": [

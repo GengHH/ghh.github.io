@@ -1,3 +1,12 @@
+<!--
+ * @Author: GengHH
+ * @Date: 2021-01-18 16:52:18
+ * @LastEditors: GengHH
+ * @LastEditTime: 2021-02-04 18:26:21
+ * @Description: file content
+ * @FilePath: \VuePress2\docs\index\linuxCreateRedis.md
+-->
+
 # Linux 下 Redis 的安装和部署
 
 ### 一、**Redis 介绍**
