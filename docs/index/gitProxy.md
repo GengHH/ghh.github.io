@@ -2,7 +2,7 @@
  * @Author: GengHH
  * @Date: 2021-01-18 16:52:18
  * @LastEditors: GengHH
- * @LastEditTime: 2021-02-04 18:33:50
+ * @LastEditTime: 2021-02-05 09:41:10
  * @Description: file content
  * @FilePath: \VuePress2\docs\index\gitProxy.md
 -->
@@ -14,8 +14,8 @@
 #### 设置代理（指定域名设置）
 
 ```
-git config --global https.proxy http://10.1.101.1:1086
-git config --global https.proxy https://10.1.101.1:1086
+git config --global http.https://github.com.proxy http://10.1.101.1:1086
+git config --global https.https://github.com.proxy https://10.1.101.1:1086
 ```
 
 #### 取消代理（指定域名设置）
